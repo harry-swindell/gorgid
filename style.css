@@ -8,7 +8,7 @@ body {
 .big {
   font-family: Arial, sans-serif;
   font-size: 2.5vw;
-  color: black;
+  color: white;
   position: fixed;
   text-align: left;
   margin-left: 4%;
@@ -18,7 +18,7 @@ body {
 .small {
   font-family: arial, sans-serif;
   font-size: 1.5vw;
-  color: black;
+  color: white;
   position: fixed;
   text-align: left;
   margin-left: 0%;
@@ -30,15 +30,15 @@ body {
 }
 
 a:link {
-  color: blue;
+  color: cyan;
   text-decoration: none;
 }
 a:visited {
-  color: blue;
+  color: cyan;
   text-decoration: none;
 }
 a:hover {
-  color: cyan;
+  color: white;
   text-decoration: none;
 }
 
